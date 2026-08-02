@@ -1,4 +1,3 @@
-# README
 
 ## Wenwen (Celine) Zhang
 
