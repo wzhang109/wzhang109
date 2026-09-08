@@ -1,24 +1,21 @@
 
-## Wenwen (Celine) Zhang
+# Hi, I'm Wenwen (Celine) 👋
 
-I work on measurement problems in institutional economics: taking things everyone agrees
-matter but no one has a number for, and turning them into auditable, reproducible indices
-that can be tested with policy-evaluation methods.
+I'm a policy researcher interested in how AI changes human learning and judgment, not only what it allows people to produce.
 
-**[Accountability Continuity Research](https://github.com/wzhang109/Accountability_Continuity_Research)**
-As decisions become delegable to AI systems, which ones still require a continuous human
-who bears the consequence and carries it forward? Building a measurable index and testing
-it against error rates, correction speed, and dispute rates. Dated research log, including
-open problems and reversals.
+I came to this question through development economics and field research. While working with a Stanford REAP field team on caregiver mental health and early childhood development in rural China, I saw how strongly family and institutional conditions shape what an intervention can achieve. Later, at the University of Chicago, I evaluated an LLM workflow and became interested in the difference between a convincing output and a reliable process.
 
-**[state-coordination](https://github.com/wzhang109/state-coordination)**
-Do inherited state coordination structures become an asset or a barrier after a major
-institutional transition? The hard part is measurement: turning policy text into
-sector-level metrics where every score traces back to a specific passage.
+My current independent research asks a simple question:
 
-Both use the same measurement design pattern — dimensions fixed before outcomes are
-examined, primary evidence attached to every score, ambiguous cases routed to human review
-rather than machine finalization — and both are tested in event-study panel designs,
-though the identification differs between them.
+> When AI helps someone produce a better answer, does it also strengthen what they can later understand and judge on their own?
 
-MPP, Harris School of Public Policy, University of Chicago · Chicago, IL
+I'm especially interested in young people, human agency, and the conditions that determine whether AI expands opportunity or reproduces existing gaps.
+
+### Current work
+
+- **[Accountability Continuity](https://github.com/wzhang109/Accountability_Continuity):** Research notes on human judgment and oversight in AI-assisted decisions.
+- **[State Coordination](https://github.com/wzhang109/state-coordination):** Measuring institutions and policy capacity from historical evidence.
+
+🔗 [LinkedIn](https://www.linkedin.com/in/wenwen-celine-zhang/)
+
+I'm always glad to connect with researchers and practitioners exploring similar questions.
