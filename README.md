@@ -4,7 +4,7 @@ I'm a researcher with a background in development economics and public policy. I
 
 My interest began with rural–urban opportunity gaps in China. Working with a Stanford REAP field team on caregiver mental health and early childhood development made me wonder how individual progress can last without continued support from families, schools, and communities.
 
-Over time, I've explored related questions about institutions and organizations. At the University of Chicago, I built a validation and evaluation layer for LLM-generated industry and trade classifications for economic research. That work drew me to questions about how AI changes the way people review information, learn, and make decisions.
+Over time, I've explored related questions about institutions and organizations. I built a validation and evaluation layer for LLM-generated industry and trade classifications for economic research at the University of Chicago. That work drew me to questions about how AI changes the way people review information, learn, and make decisions.
 
 These connections have become clearer as I've explored different kinds of work. I'm especially interested in what helps people develop and retain their own judgment, from young people learning with AI to people using it at work.
 
