@@ -15,6 +15,6 @@ My current focus is **AI, human judgment, and capability development**. I'm inte
 
 The questions behind these projects grew out of my fieldwork and research experience. I'm developing them through evidence review, public-source analysis, and study design, with methods and limitations documented in each repository.
 
-I'm currently looking for full-time research or program roles where I can contribute through data analysis, evidence evaluation, and project coordination. I'm keen to work on real projects, learn from colleagues, and develop these questions through practice.
+I'm interested in opportunities to contribute through research, evidence evaluation, and project coordination, and I'd be glad to connect with people exploring related questions.
 
 [LinkedIn](https://www.linkedin.com/in/wenwen-celine-zhang/)
