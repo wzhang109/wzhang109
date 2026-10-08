@@ -1,20 +1,20 @@
 # Hi, I'm Wenwen (Celine) 👋
 
-I'm a researcher with a background in development economics and public policy. I keep coming back to a question: **how do the conditions around people shape their opportunities to grow, and what can we do to improve those conditions?**
+I'm a researcher with a background in development economics and public policy. I keep coming back to a question: **how do people's environments shape their opportunities to learn and grow, and how can we improve those conditions?**
 
 My interest began with rural–urban opportunity gaps in China. Working with a Stanford REAP field team on caregiver mental health and early childhood development made me wonder how individual progress can last without continued support from families, schools, and communities.
 
-Over time, I've explored related questions about institutions and organizations. I built a validation and evaluation layer for LLM-generated industry and trade classifications for economic research at the University of Chicago. That work drew me to questions about how AI changes the way people review information, learn, and make decisions.
+At the University of Chicago, I evaluated LLM-generated industry and trade classifications against official reference codes. That experience made me more attentive to what an apparently convincing answer actually supports, and drew me toward questions about how people understand information and form judgments when using AI.
 
-These connections have become clearer as I've explored different kinds of work. I'm especially interested in what helps people develop and retain their own judgment, from young people learning with AI to people using it at work.
+My current focus is **AI, human judgment, and capability development**. I'm interested in what people learn through using AI, what they remain able to do independently, and how feedback, incentives, and authority shape these experiences in education and at work.
 
 ### Current work
 
-- [Accountability Continuity](https://github.com/wzhang109/Accountability_Continuity): Exploring how AI use changes human review, judgment, and responsibility in organizations. The repository includes conceptual models, simulations using synthetic data, and a draft study of AI advice and learning.
-- [State Coordination](https://github.com/wzhang109/state-coordination): An ongoing effort to measure state coordination using Chinese policy texts, with documented sources and coding rules.
+- [Accountability Continuity](https://github.com/wzhang109/Accountability_Continuity): Exploring human review, judgment, learning, and organizational responses in AI use. The repository brings together conceptual work, synthetic simulations, learning-study designs, and analysis of public organizational documents.
+- [State Coordination](https://github.com/wzhang109/state-coordination): Exploring how institutions and policy support shape development and access to opportunities, using Chinese policy documents and exploratory analysis of public cross-country data.
 
-These projects are in progress. The AI and learning study is still at the design stage. I use AI coding tools extensively and document the methods, assumptions, and limitations in the repositories.
+The questions behind these projects grew out of my fieldwork and research experience. I'm developing them through evidence review, public-source analysis, and study design, with methods and limitations documented in each repository.
 
-I'm interested in opportunities to contribute through research, evidence evaluation, and project coordination, and I'd be glad to connect with people exploring related questions.
+I'm currently looking for full-time research or program roles where I can contribute through data analysis, evidence evaluation, and project coordination. I'm keen to work on real projects, learn from colleagues, and develop these questions through practice.
 
 [LinkedIn](https://www.linkedin.com/in/wenwen-celine-zhang/)
