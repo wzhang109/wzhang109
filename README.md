@@ -2,11 +2,19 @@
 
 I'm a researcher with a background in development economics and public policy. I keep coming back to a question: **how do people's environments shape their opportunities to learn and grow, and how can we improve those conditions?**
 
+### Research focus: AI, human judgment, and capability development
+
+**When AI helps us reach an answer, what helps us also learn to question, understand, and judge for ourselves?**
+
+I'm interested in how people notice their assumptions, evaluate advice, and revise their views through evidence and experience. I want to understand how AI interactions, feedback, and the conditions in schools and workplaces can support that process. The aim is to help people develop their own judgment alongside getting things done.
+
+**Read my research statement: [English](https://github.com/wzhang109/wzhang109/blob/main/RESEARCH_STATEMENT.md) · [中文](https://github.com/wzhang109/wzhang109/blob/main/RESEARCH_STATEMENT.zh-CN.md)**
+
+### Background
+
 My interest began with rural–urban opportunity gaps in China. Working with a Stanford REAP field team on caregiver mental health and early childhood development made me wonder how individual progress can last without continued support from families, schools, and communities.
 
 At the University of Chicago, I evaluated LLM-generated industry and trade classifications against official reference codes. That experience made me more attentive to what an apparently convincing answer actually supports, and drew me toward questions about how people understand information and form judgments when using AI.
-
-My current focus is **AI, human judgment, and capability development**. I'm interested in what people learn through using AI, what they remain able to do independently, and how feedback, incentives, and authority shape these experiences in education and at work.
 
 ### Current work
 
