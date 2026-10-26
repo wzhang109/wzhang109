@@ -2,6 +2,8 @@
 
 I'm a researcher with a background in development economics and public policy. Across my work, I keep coming back to a central question: **how do people's environments shape their opportunities to learn and grow, and how can we improve those conditions?**
 
+I care about creating environments where people feel seen, heard, and appreciated. These needs matter in every era. As AI takes on more tasks, I want to keep human connection, dignity, and well-being central to how we design and evaluate technology.
+
 ## Research focus: AI, human judgment, and capability development
 
 **When AI helps us reach an answer, what helps us also learn to question, understand, and judge for ourselves?**
