@@ -1,30 +1,41 @@
 # Hi, I'm Wenwen (Celine) 👋
 
-I'm a researcher with a background in development economics and public policy. Across my work, I keep coming back to a central question: **how do people's environments shape their opportunities to learn and grow, and how can we improve those conditions?**
+I'm a researcher with a background in development economics and public policy. Across my work, I keep coming back to a central question: **how do people's environments shape their opportunities to learn, connect, and grow—and how can we improve those conditions?**
 
-I care about creating environments where people feel seen, heard, and appreciated. These needs matter in every era. As AI takes on more tasks, I want to keep human connection, dignity, and well-being central to how we design and evaluate technology.
+I care about creating environments where people feel seen, heard, and appreciated. As AI becomes part of everyday life, I see an opportunity to think more deeply about what it means to be human, what we value, and how technology can support human potential.
 
-## Research focus: AI, human judgment, and capability development
+## Research interests: AI and human flourishing
 
-**When AI helps us reach an answer, what helps us also learn to question, understand, and judge for ourselves?**
+**How can AI—and the educational, workplace, and social environments around it—support meaningful lives, human connection, and the ability to learn and choose?**
 
-I am fascinated by how we notice our own assumptions, evaluate advice, and revise our views through evidence and experience. I want to understand how AI interactions—and the feedback we receive in schools and workplaces—can support or hinder this process. My aim is to explore how AI can help us get things done while also supporting our ability to learn and exercise independent judgment.
+I'm exploring three connected areas:
 
-**Read my research statement: [English](https://github.com/wzhang109/wzhang109/blob/main/RESEARCH_STATEMENT.md) · [中文](https://github.com/wzhang109/wzhang109/blob/main/RESEARCH_STATEMENT.zh-CN.md)**
+- **Learning, judgment, and agency:** How does using AI affect what people learn, how they evaluate evidence, and their ability to make choices they understand and stand behind?
+- **Relationships and well-being:** How do AI interactions shape trust, empathy, belonging, and the experience of feeling understood and valued? How do they affect our relationships with other people?
+- **Meaning and institutional conditions:** How do schools, workplaces, and organizations shape people's sense of purpose and opportunities to develop? Whose experiences count when we evaluate whether a technology is helping?
 
-### Background
+These are questions guiding my developing research interests. My grounding is in empirical social science, field research, and the study of institutions.
 
-My interest began with rural–urban opportunity gaps in China. Working with a Stanford REAP field team on caregiver mental health and early childhood development drew my attention to how support from families, schools, and communities shapes people's opportunities to grow.
+**Research statement: [English](https://github.com/wzhang109/wzhang109/blob/main/RESEARCH_STATEMENT.md) · [中文](https://github.com/wzhang109/wzhang109/blob/main/RESEARCH_STATEMENT.zh-CN.md)**
 
-Later, at the University of Chicago, I evaluated LLM-generated industry and trade classifications against official reference codes. That experience made me more attentive to what an apparently convincing answer actually supports, sparking my current questions about how we understand information and form judgments when using AI.
+## Background
 
-### Current work
+Working with a Stanford REAP field team on caregiver surveys and early childhood development drew my attention to how family and community support shapes people's opportunities. My master's thesis at the University of San Francisco examined associations between socioeconomic conditions and caregiver mental health in rural China.
 
-- **[Accountability Continuity](https://github.com/wzhang109/Accountability_Continuity)**: Exploring human review, judgment, learning, and organizational responses in AI use. The repository brings together conceptual work, synthetic simulations, learning-study designs, and analysis of public organizational documents.
-- **[State Coordination](https://github.com/wzhang109/state-coordination)**: Exploring how institutions and policy support shape development and access to opportunities, using Chinese policy documents and exploratory analysis of public cross-country data.
+At UChicago Harris, I evaluated LLM-generated industry and trade classifications against official reference codes and built a source-linked panel dataset of South Korean government institutions. These experiences strengthened my interest in evidence quality, human review, and the organizational conditions behind decisions.
 
-These projects are in progress, driven by questions that kept surfacing during my fieldwork and research. I'm developing them through evidence review, public-source analysis, and study design, with methods and limitations documented in each repository.
+I bring experience in quantitative analysis, causal inference methods, survey implementation, data validation, policy writing, and project coordination.
 
-I am currently interested in opportunities to contribute through research, evidence evaluation, and project coordination. If you are exploring related questions, I would love to connect!
+## Selected work
+
+- **[Accountability Continuity](https://github.com/wzhang109/Accountability_Continuity)** — Independent work in progress on organizational coordination and AI-assisted work, alongside earlier explorations of human review and learning. Materials include public-source analysis, synthetic simulations, and proposed study designs.
+- **[State Coordination](https://github.com/wzhang109/state-coordination)** — Independent work in progress on institutions, policy support, and development opportunities, using policy documents and exploratory analysis of public data.
+- **[Rural Caregivers' Mental Health](https://github.com/wzhang109/Rural-Caregivers-Mental-Health-2024)** — My completed master's thesis on socioeconomic conditions and caregiver distress. The analysis examines associations in baseline survey data.
+
+Each repository documents its methods, current status, and limitations.
+
+## Connect
+
+I welcome conversations about research collaborations and opportunities in research, strategy, policy, and science philanthropy. I'm especially interested in work that connects careful evidence with practical efforts to support people's capabilities and well-being.
 
 [LinkedIn](https://www.linkedin.com/in/wenwen-celine-zhang/)

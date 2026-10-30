@@ -1,25 +1,35 @@
-# AI, Human Judgment, and Authentic Growth
+# AI, Human Flourishing, and the Conditions for Growth
 
-**Wenwen (Celine) Zhang · Research statement · October 2026**
+**Wenwen (Celine) Zhang · Research statement · Updated 30 October 2026**
 
 [中文](RESEARCH_STATEMENT.zh-CN.md) · [Back to my profile](https://github.com/wzhang109)
 
-My interest in this area began with the concern that AI might replace people at work. Thinking about my own future led me to a broader question: as technology takes on more tasks, what capabilities do we want to develop in ourselves and the next generation?
+## What draws me to these questions
 
-I do not believe that people's value should be measured only by their productivity. Our inner lives, emotional connections, and ability to understand ourselves, make choices, and take responsibility also matter. The rapid development of AI has made me more interested in these human dimensions.
+AI's rapid development has become a catalyst for questions I care deeply about: what does it mean to be human, what gives our lives value, and what conditions help people flourish?
 
-To me, authentic growth means noticing our emotions and assumptions, reconsidering our views when new evidence appears, and putting what we learn into practice. Buddhist ideas about awareness and practice have influenced this personal understanding of growth. They motivate my questions; they are not conclusions I expect research to confirm. I want to investigate how interacting with AI affects people's ability and willingness to reflect, reconsider, and learn.
+I care about people's opportunities to learn, exercise agency, build meaningful relationships, and feel seen, heard, and appreciated. Our inner lives, dignity, and connections with others deserve attention as we consider AI's effects on society. I want to understand how AI interactions, and the environments in which they take place, shape these dimensions of life over time.
 
-This connects with my background in development economics and public policy. Working on caregiver and child development surveys with Stanford REAP drew my attention to the support and opportunities people need to develop. Later, evaluating LLM outputs at UChicago raised a related question: when an AI gives a convincing explanation, how do people assess the evidence behind it—and recognize why they are inclined to believe it?
+This interest connects with my background in development economics and public policy. Working on caregiver surveys and early childhood development with Stanford REAP drew my attention to the support people need from families and communities. Evaluating LLM outputs at UChicago raised questions about evidence, trust, and human review. Research on institutions made me more attentive to how organizational rules and resources shape what people can actually do.
 
-**Accepting a correct recommendation and learning how to assess it are different outcomes.** If we only measure whether someone gets an answer right, we may miss that difference. I want to understand when AI helps people notice a blind spot and when it reinforces what they already want to believe. Can they explain their reasoning, reconsider when evidence contradicts them, and apply what they have learned to a new problem without AI? Can they recognize when they need help or further checking?
+My understanding of growth also includes noticing our emotions and assumptions, reconsidering our views, and putting what we learn into practice. Buddhist ideas about awareness and practice have influenced this personal perspective. They motivate questions I want to investigate with an openness to different findings.
 
-An AI's correction is not automatically reliable. Experience also needs interpretation: a good outcome may reflect luck, and a bad one may not mean the reasoning was wrong. I am interested in how people learn to compare advice with evidence and consequences, recognize uncertainty, and revise their judgment. The goal is neither unquestioning trust in AI nor confidence in one's own first impression.
+## Questions I am exploring
 
-Growth requires a person's own attention and effort. Schools and workplaces can provide conditions that help or hinder it. Does forming an initial judgment before seeing AI advice help someone learn, or make them more attached to an early mistake? Does feedback explaining the reasoning behind an answer work differently from a simple right-or-wrong verdict? What happens when a team makes time to question AI recommendations and review what happened afterward? I want to draw on cognitive psychology, social psychology, and organizational behavior to study these questions, without assuming the same approach works for everyone.
+**Learning, judgment, and agency.** When people turn to AI for advice, explanations, or analytical work, how does it affect their capacity to learn and make choices over time? Accepting a correct recommendation and learning how to assess it are different outcomes. I am interested in retained understanding, confidence, the ability to recognize uncertainty, and knowing when to seek help. Advice timing and feedback are possible starting points for study within this broader interest.
 
-This is also where my interests connect with AI governance. A requirement for human review depends on how people actually behave: what they trust, what they check, and whether they can act on a concern. Research on these behaviors could help distinguish a process that supports meaningful correction from one that merely records that a person was involved.
+**Relationships, trust, and well-being.** How do interactions with AI affect people's sense of being understood, their trust, and their relationships with others? What supports empathy, belonging, and meaningful connection? I am interested in how these experiences vary across people and settings, including the circumstances in which support is helpful and those in which it may encourage dependence or displace valued relationships.
 
-My current independent work, [Accountability Continuity](https://github.com/wzhang109/Accountability_Continuity), approaches parts of this agenda through conceptual work, synthetic simulations, public-document analysis, and learning-study designs. The proposed studies have not yet been conducted. They are early steps toward a longer research program, not evidence that any particular design improves judgment.
+**Meaning and the conditions for development.** How do AI-supported schools, workplaces, and organizations affect people's sense of purpose, opportunities to contribute, and ability to develop their capabilities? Who defines a good outcome, whose experience is included, and can those definitions change in light of what people experience? These questions connect human flourishing with institutional design and the evaluation of public-interest projects.
 
-My long-term aim is to understand how AI can help people accomplish more while also supporting their capacity to reflect, learn, and choose. For me, contributing to AI that benefits humanity includes helping people become better able to assess evidence, understand themselves and others, and make decisions they can explain and stand behind.
+These areas overlap. A tool may change immediate performance, learning, and relationships in different ways. Understanding those differences calls for careful measurement, attention to context, and collaboration across economics, psychology, education, HCI, and organizational research.
+
+## Experience and work in progress
+
+My practical grounding is in quantitative and policy research. At UChicago Harris, I evaluated LLM-generated industry and trade classifications against official codes, examined error patterns, and built a source-linked panel dataset of South Korean government institutions. With Stanford REAP, I programmed caregiver surveys, trained enumerators, and monitored data quality. My USF master's thesis examined socioeconomic conditions and caregiver distress using baseline cross-sectional data.
+
+My independent project, [Accountability Continuity](https://github.com/wzhang109/Accountability_Continuity), currently explores organizational coordination and AI-assisted work through readings and public records. It also preserves earlier work on human review, synthetic measurement exercises, and proposed learning studies. Those studies have not been conducted. The repository documents the scope of each branch and the substantial role of AI assistance.
+
+[State Coordination](https://github.com/wzhang109/state-coordination) is a separate exploration of institutions, policy support, and development opportunities. These projects have evolved through different questions and sources; they provide concrete starting points for discussion as I develop my broader interests.
+
+I hope to contribute through empirical analysis, evidence evaluation, clear writing, and project coordination, while developing these questions with research partners. I am also interested in how scientific and philanthropic organizations identify useful questions, support research, and assess its public value. My long-term aim is to help build knowledge and institutions that support people's capacity to learn, connect, choose, and lead meaningful lives alongside AI.
